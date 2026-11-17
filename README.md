@@ -1,8 +1,8 @@
 # shoalmark brand
 
-shoalmark's logo files, its seat icons, a portrait, its social images and the words to describe it, for listings,
-articles and directories. Take what you need; you don't need to ask for the uses below. How the marks may be used is
-in [Using the marks](#using-the-marks).
+shoalmark's logo files, its seat icons, its people icons, a portrait, its social images and the words to describe it,
+for listings, articles and directories. Take what you need; you don't need to ask for the uses below. How the marks may
+be used is in [Using the marks](#using-the-marks).
 
 ## What's here
 
@@ -13,7 +13,7 @@ in [Using the marks](#using-the-marks).
 | `wordmark/` | the word *shoalmark* alone, light and dark, and black and white, as SVG, and PNG 660 and 1210 px wide | as the lockup: light on light grounds, dark on dark ones |
 | `clearspace/` | `shoalmark-clearspace-and-sizes.png`, the clear space and the smallest sizes | see [Clear space and smallest sizes](#clear-space-and-smallest-sizes) |
 | `seats/` | the seven seat icons, as SVG and PNG at 20, 200 and 400 px, and a sheet of all seven | an avatar for a seat: see [The seat icons](#the-seat-icons) |
-| `people/` | the portrait of @holgo99, the Owner | beside a quote or an article: see [The portrait](#the-portrait) |
+| `people/` | the portrait of @holgo99, the Owner; the five people icons, plain and lit, as SVG and as PNG at 20, 200 and 400 px for dark and light grounds, and a sheet of all five | the portrait beside a quote or an article; the icons wherever a page shows people beside the bots: see [The portrait](#the-portrait) and [The people icons](#the-people-icons) |
 | `social/` | the profile header, the repository card and the link previews | see [Social images](#social-images) |
 
 The logo files are named `shoalmark-<part>-<variant>.<ext>`, for example `shoalmark-lockup-dark-1606.png`. Their SVGs
@@ -82,6 +82,26 @@ For one colour, use black (`#1a1a1a`) on light grounds and white (`#ffffff`) on 
   by side.
 - **These are copies.** The SVGs match, byte for byte, the public shoalmark repository's `brand/seats/` at commit
   `5f66ca4`, which stays their source. Check a copy against it by its sha256.
+
+## The people icons
+
+`people/` holds five people icons: one for each part a person plays beside the bots. Each is a flat figure on a sand
+disc, ringed in ink.
+
+| Icon | Who it stands for |
+|---|---|
+| `person-owner` | the Owner, who signs: in glasses and a turtleneck |
+| `person-decider` | a decider: whose word counts in a scope, within grants the Owner signed |
+| `person-collaborator` | a collaborator, with a visitor's badge: who offers work |
+| `person-several` | several people at once |
+| `person-user` | a user: who asks |
+
+- **The seal.** Only the Owner and deciders carry the fingerprint seal: it stands for a signed identity.
+- **Plain and lit.** Each icon comes plain and lit (`-lit`, ringed: the person is acting), as an SVG, the source, and
+  as PNG at 20, 200 and 400 px: for a dark ground as `person-<who>-200.png`, for a light one as
+  `person-<who>-light-200.png`. `people-icons-sheet.png` shows the five, plain over lit.
+- **Apart from the bots.** A person's icon differs from every bot's face in shape, not only in colour, at every size
+  measured, from 12 to 64 px.
 
 ## The portrait
 
