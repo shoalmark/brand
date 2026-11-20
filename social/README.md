@@ -6,6 +6,7 @@ JPEG beside it is its export.
 | Files | Size | Use |
 |---|---|---|
 | `profile-header.svg`, `.jpg` (in use), `.png` | 1500 × 500 (3 : 1) | a profile's header |
+| `profile-header-shoalmark_tools.svg`, `.jpg`, `.png` | 1500 × 500 (3 : 1) | the header of @shoalmark_tools on X. Alt text: shoalmark's profile header. At the top left, the wordmark: lowercase shoalmark with the Pricke in the Watt's green. Under it, in the land's sand: "the trust fall written out". On the right, a strip of the landing's own chart, the record of 9 October 2026, its wreck sprites standing where the page draws them, fading into the dark. At the bottom right: shoalmark.tools. |
 | `repository-card.svg`, `.png` | 1280 × 640 (2 : 1) | the repository's social preview |
 | `link-preview-en.svg`, `.png`; `link-preview-de.svg`, `.png` | 1200 × 630 | the site's link preview, English and German; the site serves them as `assets/preview.png` and `preview-de.png` |
 
